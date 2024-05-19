@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Customer Service Representative Social _84df13</name>
+   <tag></tag>
+   <elementGuidId>7fa92b38-16ab-48fd-af51-47a213dc04d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='dashboardSelectorLink']/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.ms-crm-View-icon.ms-crm-ImageStrip-Dropdown_Arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Customer Service Representative Social Dashboard Select Dashboard&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>21b9f3bf-f49c-45aa-b19b-6c1c6fa92f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-crm-View-icon ms-crm-ImageStrip-Dropdown_Arrow</value>
+      <webElementGuid>b8534548-567f-4267-8152-9f54bd9b0deb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_imgs/imagestrips/transparent_spacer.gif</value>
+      <webElementGuid>d5971fc3-773f-4cd6-a525-b88beca94a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Select Dashboard</value>
+      <webElementGuid>dba7085b-739a-4530-a920-1f5d448512b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboardSelectorLink&quot;)/span[@class=&quot;ms-crm-View-icon keyboardFocusClass&quot;]/img[@class=&quot;ms-crm-View-icon ms-crm-ImageStrip-Dropdown_Arrow&quot;]</value>
+      <webElementGuid>5765010d-4fe8-430a-b83a-6d810fe6ed6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Dashboards Customer Service Representa_7a7d3c/iframe_Refresh all components of the dashbo_94d0bd</value>
+      <webElementGuid>644dbe0e-12df-48c6-b5e1-5759c20c473f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='dashboardSelectorLink']/span[2]/img</value>
+      <webElementGuid>4a63bc9b-494c-4e18-80a7-19d48d4d7428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Select Dashboard']</value>
+      <webElementGuid>2e5f76fa-a6b5-42ed-9516-8074af4ccb73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>979278bc-ea0b-4b3c-83d5-da68c1c1c61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_imgs/imagestrips/transparent_spacer.gif' and @alt = 'Select Dashboard']</value>
+      <webElementGuid>2b8fd44c-dd43-4ab4-8b12-63919d0794b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

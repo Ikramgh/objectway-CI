@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "3FF1E19C8F8977A7503A6B56630444FB",
+  "keywordClasses": [
+    {
+      "name": "com.example.customkeywords.GenerateRandomNumberAndAppendToURLKeyword",
+      "keywordMethods": [
+        {
+          "name": "appendRandomNumberToURL",
+          "parameters": [
+            {
+              "name": "baseUrl",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

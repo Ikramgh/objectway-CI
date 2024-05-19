@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Individuals</name>
+   <tag></tag>
+   <elementGuidId>dd06d312-e1c6-42e1-8341-44077d7deace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sitemap-entity-nav_contacts']/div/div/div[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a.ae.be.bf.ba.dr.i.bi.bj.bk.fx.fy.flexbox > div.a.bl.bm.i.f.aq.av.bn.flexbox > div.aw.e.aq.bx.flexbox > span.bo.aq.ce.cf.cg.ch.ci.av.cj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Individuals&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b9e7870-599f-47b8-a3f6-ae7d2a219549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bo aq ce cf cg ch ci av cj </value>
+      <webElementGuid>81b27218-8196-449c-8794-5a47aabcc751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Individuals</value>
+      <webElementGuid>e89a7217-95b2-4361-be92-920da1826159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitemap-entity-nav_contacts&quot;)/div[@class=&quot;a ae be bf ba dr i bi bj bk fx fy flexbox&quot;]/div[@class=&quot;a bl bm i f aq av bn flexbox&quot;]/div[@class=&quot;aw e aq bx flexbox&quot;]/span[@class=&quot;bo aq ce cf cg ch ci av cj&quot;]</value>
+      <webElementGuid>802224d1-f911-41ad-83f5-cbe864b3a96b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sitemap-entity-nav_contacts']/div/div/div[2]/span[2]</value>
+      <webElementGuid>5e45d9e6-78b5-42c7-ba9a-0c9dc2280648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organisations'])[1]/following::span[2]</value>
+      <webElementGuid>96384e73-6019-435f-8115-27dbff2bc999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leads'])[1]/preceding::span[2]</value>
+      <webElementGuid>76f8f801-0156-4136-98fd-21515730f552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunities'])[1]/preceding::span[4]</value>
+      <webElementGuid>6ed8e039-39a8-4cd6-a37b-0039ea44310c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Individuals']/parent::*</value>
+      <webElementGuid>6cb589ca-b2b9-45f1-998f-dca42747b0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/div/div/div[2]/span[2]</value>
+      <webElementGuid>832ed0bd-7889-4410-aa6a-f235a9e9ceda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Individuals' or . = 'Individuals')]</value>
+      <webElementGuid>df1c09bd-bfbc-4add-b19a-7b1e8509d58b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

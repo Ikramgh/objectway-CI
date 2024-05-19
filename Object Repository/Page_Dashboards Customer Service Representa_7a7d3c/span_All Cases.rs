@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All Cases</name>
+   <tag></tag>
+   <elementGuidId>5887faa0-33e3-4925-9163-73e45f95556e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='chartSubTitle'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Chart2_paneControl > #paneContent > #toolBarRow > #toolBarCell > #visualizationToolBar > #chartSubTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;All Cases&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>553d17bf-6766-48df-bc89-e8a5284a0cb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chartSubTitle</value>
+      <webElementGuid>1c6fd86c-785f-4ab9-b410-386f30958baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>All Cases</value>
+      <webElementGuid>11345e52-b9b7-47ad-8a63-8e0885fb6066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-crm-headerchartSubTitle</value>
+      <webElementGuid>49422552-cc4a-4c39-b02a-a793fb82b044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>2e35d0b8-e170-42d3-992a-3e989ce48d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Cases</value>
+      <webElementGuid>f32cbcba-3382-498d-be8c-82548eb4a9eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Chart2_paneControl&quot;)/div[@id=&quot;paneContent&quot;]/div[@id=&quot;toolBarRow&quot;]/div[@id=&quot;toolBarCell&quot;]/div[@id=&quot;visualizationToolBar&quot;]/span[@id=&quot;chartSubTitle&quot;]</value>
+      <webElementGuid>ae58a959-807d-4d21-b4e9-25312c4a3e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Dashboards Customer Service Representa_7a7d3c/iframe_Refresh all components of the dashbo_94d0bd</value>
+      <webElementGuid>c1248655-43f6-4344-866f-d7d6d18e7009</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='chartSubTitle'])[2]</value>
+      <webElementGuid>50585d93-36f9-4ea8-b176-78ab34063f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='visualizationToolBar']/span[2])[2]</value>
+      <webElementGuid>12003898-a230-406c-8bf9-9ccf3a806b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Mix by Incident Type'])[2]/following::span[4]</value>
+      <webElementGuid>f184f6cd-ee23-4269-964e-f62b77e0c374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Mix by Incident Type'])[1]/following::span[6]</value>
+      <webElementGuid>4642fa8e-e154-401e-8682-7af7d760738c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::span[1]</value>
+      <webElementGuid>3acba926-ada0-4123-900a-ca6cec134dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Mix (By Priority)'])[1]/preceding::span[5]</value>
+      <webElementGuid>cc9187d2-68d7-4337-98a4-becb318ceacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Cases']/parent::*</value>
+      <webElementGuid>95ee319e-475a-4e9d-8f74-f6d93a4cb9ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/div/div[2]/div/div/div/div/div/div/span/div/div[2]/div/div/span[2]</value>
+      <webElementGuid>4040ad11-94d8-4da2-8154-bac496b466aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'chartSubTitle' and @title = 'All Cases' and (text() = 'All Cases' or . = 'All Cases')]</value>
+      <webElementGuid>7df654e4-18d3-493d-a499-5ea0426053c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

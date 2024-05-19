@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer Service Representative Social Dashboard</name>
+   <tag></tag>
+   <elementGuidId>8af5fd55-4bb8-4d0d-8194-dac35e62a618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dashboardSelector']/tbody/tr/td/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.keyboardFocusClass > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Customer Service Representative Social Dashboard Select Dashboard&quot;i] >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6bdf042-6e22-4bae-94ef-1226a66cba1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Service Representative Social Dashboard</value>
+      <webElementGuid>d189306b-8e7d-49ad-b07d-9ce040e96c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboardSelector&quot;)/tbody[1]/tr[1]/td[@class=&quot;keyboardFocusClass&quot;]/div[1]</value>
+      <webElementGuid>0587bf1d-ecb2-4eff-a6fb-9fdb8530f661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Dashboards Customer Service Representa_7a7d3c/iframe_Refresh all components of the dashbo_94d0bd</value>
+      <webElementGuid>0cd5c1b0-4fd7-44d4-8df6-e8a49b923db1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dashboardSelector']/tbody/tr/td/div</value>
+      <webElementGuid>407bfaa6-1a70-43ef-b41d-3b816eddfd61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cases by SLA Status Over Week'])[1]/preceding::div[9]</value>
+      <webElementGuid>da2cd998-0955-4d52-b80d-e309355755f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div</value>
+      <webElementGuid>f560581c-d33e-4ca8-8304-0c850f7566fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Customer Service Representative Social Dashboard' or . = 'Customer Service Representative Social Dashboard')]</value>
+      <webElementGuid>b325dbdd-57ee-4c68-9679-7c6deb00ef03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

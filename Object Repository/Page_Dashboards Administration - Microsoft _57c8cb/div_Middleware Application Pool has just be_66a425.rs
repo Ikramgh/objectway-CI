@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Middleware Application Pool has just be_66a425</name>
+   <tag></tag>
+   <elementGuidId>f6b6e52e-4305-4f6f-865f-4ece8dd47536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='alertJs-title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#alertJs-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Middleware Application Pool has just been restarted.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53971fc3-50a2-4f96-9c8d-bfd72eff9aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-js-Error-Header ms-crm-Field-Data-Print</value>
+      <webElementGuid>5ec87b6a-b2f5-42d1-9547-429d028f1dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alertJs-title</value>
+      <webElementGuid>61b9efdf-f7c9-4911-85f3-82558e3bbc87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Middleware Application Pool has just been restarted. </value>
+      <webElementGuid>4a1014d9-92eb-4b04-99d0-bd67ae63f609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alertJs-title&quot;)</value>
+      <webElementGuid>9b24003c-61ee-4d38-a595-96c366ae7bed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='alertJs-title']</value>
+      <webElementGuid>8ab80050-7ef9-4877-aa08-d5b53f4edfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='alertJs-errorRow']/td[2]/div</value>
+      <webElementGuid>9abd56a4-e2ab-4ddd-b304-54ac6085f462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/following::div[8]</value>
+      <webElementGuid>a9e3b2a3-1fac-4476-b9e7-1e8ba5fc7a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[2]</value>
+      <webElementGuid>bc6d907b-e641-4946-a360-2aafa3dc5b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Middleware Application Pool has just been restarted.']/parent::*</value>
+      <webElementGuid>c83fdfd8-7e10-477c-a3fb-7b82b6414832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+      <webElementGuid>1acb9a05-8e74-4eba-abb8-365d2c84fe41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'alertJs-title' and (text() = 'Middleware Application Pool has just been restarted. ' or . = 'Middleware Application Pool has just been restarted. ')]</value>
+      <webElementGuid>16c0cfd6-445e-4ef0-b0be-a4ff953be466</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
