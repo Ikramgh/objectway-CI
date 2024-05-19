@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.check(findTestObject(null))
 
-WebUI.authenticate('', '', '', 0)
+WebUI.clearText(findTestObject(null))
 
