@@ -21,7 +21,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 //Sample path. Change it to your saved location of autoIT script
-autoit_prj = 'C:\\Users\\ikram.gharsallah\\Katalon Studio\\BDD- objectway\\authentication credentials\\valid authentication.exe'
+autoit_prj = 'authentication credentials/valid authentication.exe'
 
 Runtime.getRuntime().exec(autoit_prj)
 

@@ -23,8 +23,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 WebUI.openBrowser('')
 
 //Sample path. Change it to your saved location of autoIT script
-autoit_prj = 'C:\\Users\\ikram.gharsallah\\Katalon Studio\\BDD- objectway\\authentication credentials\\Invalid Login.exe'
+//autoit_prj = 'C:\\Users\\ikram.gharsallah\\Katalon Studio\\BDD- objectway\\authentication credentials\\Invalid Login.exe'
 
+
+autoit_prj = 'authentication credentials/Invalid Login.exe' 
 Runtime.getRuntime().exec(autoit_prj)
 
 Thread.sleep(3000)
