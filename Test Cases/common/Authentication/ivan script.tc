@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Valid Login</name>
+   <name>ivan script</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4dffe70d-4571-412d-9bed-238aa60b8ee6</testCaseGuid>
+   <testCaseGuid>b4947557-a582-40ed-b419-81a2f59a5310</testCaseGuid>
 </TestCaseEntity>

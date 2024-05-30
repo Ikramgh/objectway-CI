@@ -32,7 +32,8 @@ WebUI.navigateToUrl('https://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx')
 
 // Usage
 // Generate a random number
-def randomNumber = Math.floor(Math.random() * 1000000)
+def randomNumber = (int)(Math.random()* 1000000000)
+//def randomNumber = Math.floor(Math.random() * 1000000)
 
 
 
@@ -41,8 +42,11 @@ def  url = 'https://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx' + "#" + rand
 
 // Redirect to the new URL using JavaScript
 WebUI.executeJavaScript("window.location.href = '" + url + "'", null)
+WebUI.delay(30)
+WebUI.refresh()
 //CustomKeywords.'GenerateRandomNumberAndAppendToURLKeyword.appendRandomNumberToURL'('https://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx')
 //customKeyword.GenerateRandomNumberAndAppendToURL('https://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx')
 //customKeyword.'GenerateRandomNumberAndAppendToURL.appendRandomNumberToURL'('https://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx')
+
 WebUI.verifyElementText(findTestObject('Page_Dashboards Customer Service Representa_7a7d3c/text_Dashboards'), 'Dashboards')
 
