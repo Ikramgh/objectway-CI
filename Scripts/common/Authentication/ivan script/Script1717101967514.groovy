@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 try {
-	WebUI.authenticate('http://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx#717330152', 'crm.test1', 'Welcome1!', 30)
+	WebUI.authenticate('http://crm-dev1.objectway.it/OFSCRMWealthQA/main.aspx#717330153', 'crm.test1', 'Welcome1!', 30)
 }
 catch (Exception) {
 	//do nothing
